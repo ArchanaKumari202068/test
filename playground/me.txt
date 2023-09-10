@@ -1,0 +1,5 @@
+{{#user}}
+Name: Archana Kumari
+Skills: HTML, CSS, JS, React.js,Python, Django,SQL,Bootstrap, tailwind.css, MongoDb,Git,github
+Email: archanakumari202068@gmail.com
+{{/user}}
